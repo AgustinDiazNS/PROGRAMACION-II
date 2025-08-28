@@ -1,5 +1,5 @@
 
-package PRACTICO1;
+package programacionII.PracticoI;
 import java.util.Scanner;
 public class Act5 {
     public static void main(String[] args){

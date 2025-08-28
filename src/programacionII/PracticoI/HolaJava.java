@@ -1,5 +1,5 @@
 
-package PRACTICO1;
+package programacionII.PracticoI;
 
 public class HolaJava {
 

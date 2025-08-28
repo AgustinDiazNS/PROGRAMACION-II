@@ -1,5 +1,4 @@
-
-package PRACTICO1;
+package programacionII.PracticoI;
 public class Act6 {
     public static void main(String[] args){
        System.out.println("Nombre: Juan Perez\nEdad: 30 años\nDirección: Calle Falsa 123");
